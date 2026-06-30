@@ -111,7 +111,7 @@ Syntecxhub_Sales_Performance_Dashboard/
 
 **Diksha Bedkute**
 
-B.E – Artifical Intelligence and Data Science Engineering
+B.E – Artificial Intelligence and Data Science Engineering
 
 DMCE College, Mumbai University
 
