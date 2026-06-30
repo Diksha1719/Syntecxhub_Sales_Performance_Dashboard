@@ -137,4 +137,4 @@ DMCE College, Mumbai University
 
 ---
 
-This project was developed as part of the **Syntecxhub Data Analyst Internship Assignment**.
+This project was developed as part of the **Syntecxhub Data Analyst Internship**.
